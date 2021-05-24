@@ -6,6 +6,8 @@ public class F1 {
 		System.out.println("F1.m1()");
 		System.out.println("F1.m1()");
 		System.out.println("F1.m1()");
+
 		System.out.print(10);
+		System.out.println("F1.m1()");
 	}
 }
